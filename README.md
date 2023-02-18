@@ -4,7 +4,7 @@
 
 - 🔭 I’m Full Stack Senior Software Developer and Software Architect;
 - 👀 I’m interested in Back-end, Front-end, DevOps and throughout the software creation process.
-- ⚡ Using MEAN Stack, most of the time: JavaScrip, Typescript, Node.js, React, React Native, Angular, Dcoker, Kubernetes;
+- ⚡ Using MEAN Stack, most of the time: JavaScrip, Typescript, Node.js, React, React Native, Angular, Docker, Kubernetes;
 - 🌱 I’m currently learning Go, Rust, Devops Tools and Software Architect;
 
 - 📫 How to reach me
